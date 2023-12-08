@@ -1,4 +1,3 @@
-//https://github.com/Lucas-S-Canno/pointer-app.git
 #!/bin/bash
 sudo apt-get update
 sudo apt-get install git ansible -y
